@@ -1,0 +1,41 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "bcryptjs": "^2.4.3",
+    "cheerio": "^1.1.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^6.21.0",
+    "mongoose": "^8.21.0",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.12",
+    "winston": "^3.19.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "description": "```\r PORT=3000\r CLIENT_URL=http://localhost:3000\r MONGO_URI=\r NODE_ENV=development\r JWT_SECRET=\r OPENAI_API_KEY=\r MODEL=gpt-5\r SMTP_HOST=smtp.gmail.com\r SMTP_PORT=587\r SMTP_USER=\r SMTP_PASS=\r ```",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EtgarAvshalomov/AI-Tender-Analysis-Compliance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtgarAvshalomov/AI-Tender-Analysis-Compliance/issues"
+  },
+  "homepage": "https://github.com/EtgarAvshalomov/AI-Tender-Analysis-Compliance#readme"
+}

@@ -1,0 +1,16 @@
+# README
+
+## .env
+```
+PORT=3000
+CLIENT_URL=http://localhost:8080
+MONGO_URI=
+NODE_ENV=development
+JWT_SECRET=
+OPENAI_API_KEY= YOUR_GROQ_API_KEY_HERE
+MODEL=gpt-5
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=
+SMTP_PASS=
+```

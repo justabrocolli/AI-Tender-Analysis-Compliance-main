@@ -1,0 +1,179 @@
+[2026-01-19 17:52:24] INFO: Connected to MongoDB
+[2026-01-19 17:52:24] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 17:52:24] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: */15 * * * *
+[2026-01-19 17:52:24] INFO: Scheduler started
+[2026-01-19 17:52:24] INFO: ✅ Server running on port 3000
+[2026-01-19 17:55:02] INFO: Connected to MongoDB
+[2026-01-19 17:55:02] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 17:55:02] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: */15 * * * *
+[2026-01-19 17:55:02] INFO: Scheduler started
+[2026-01-19 17:55:02] INFO: ✅ Server running on port 3000
+[2026-01-19 18:00:00] INFO: ⏰ Cron Triggered: Starting Pipeline...
+[2026-01-19 18:00:00] INFO: 🚀 Starting Scraping Cycle
+[2026-01-19 18:00:00] INFO: 📋 Loaded 1 sites from database.
+[2026-01-19 18:00:00] INFO: -----------------------------------------------------------
+[2026-01-19 18:00:00] INFO: 🔎 [Site 0] Processing: https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com
+[2026-01-19 18:00:02] INFO:    👀 Monitor: 🟢 CHANGE DETECTED (Hash: da4f7d519b)
+[2026-01-19 18:00:02] INFO:    📝 Queued new hash for DB update.
+[2026-01-19 18:00:02] INFO: 
+--- 🔍 Discovery: Scanning list at https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com ---
+[2026-01-19 18:01:34] INFO:    ⏱️ [List View] AI Request finished in 91.43s
+[2026-01-19 18:01:34] INFO:    ⚡ Found 5 NEW unique items on Site 0
+[2026-01-19 18:01:34] INFO:    📦 Batch 1: Processing 5 items...
+[2026-01-19 18:01:34] INFO: 
+--- 📦 Batch Reading 5 items ---
+[2026-01-19 18:05:32] INFO:    ⏱️ [Batch Group] AI Request finished in 237.88s
+[2026-01-19 18:05:32] INFO:       ✨ Saved: INE-AD-OP/04/2025
+[2026-01-19 18:05:32] INFO:       ✨ Saved: INE-AD-OP/01/2025
+[2026-01-19 18:05:32] INFO:       ✨ Saved: INE-AD-SROP/03/2025
+[2026-01-19 18:05:33] INFO:       ✨ Saved: INE-IA3-SROP/003/2025
+[2026-01-19 18:05:33] INFO:       ✨ Saved: INE-LPN-OP/003/2025
+[2026-01-19 18:05:33] INFO:       🧠 Scoring buffer of 5 items...
+[2026-01-19 18:06:21] INFO:    ⏱️ [Site 0] Completed in 381.54s
+[2026-01-19 18:06:21] INFO: ✅ Database updated successfully.
+[2026-01-19 18:06:21] INFO: 🔔 Checking for notifications...
+[2026-01-19 18:06:21] INFO: 🏁 Cycle Complete. Duration: 381.89s
+[2026-01-19 18:36:44] INFO: Connected to MongoDB
+[2026-01-19 18:36:44] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 18:36:44] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: */15 * * * *
+[2026-01-19 18:36:44] INFO: Scheduler started
+[2026-01-19 18:36:44] INFO: ✅ Server running on port 3000
+[2026-01-19 18:38:27] INFO: Connected to MongoDB
+[2026-01-19 18:38:27] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 18:38:27] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: */13 * * * *
+[2026-01-19 18:38:27] INFO: Scheduler started
+[2026-01-19 18:38:27] INFO: ✅ Server running on port 3000
+[2026-01-19 18:39:00] INFO: ⏰ Cron Triggered: Starting Pipeline...
+[2026-01-19 18:39:00] INFO: 🚀 Starting Scraping Cycle
+[2026-01-19 18:39:00] INFO: 📋 Loaded 1 sites from database.
+[2026-01-19 18:39:00] INFO: -----------------------------------------------------------
+[2026-01-19 18:39:00] INFO: 🔎 [Site 0] Processing: https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com
+[2026-01-19 18:39:03] INFO:    👀 Monitor: 🔴 NO CHANGE (Hash: da4f7d519b)
+[2026-01-19 18:39:03] INFO:    ⏱️ [Site 0] Skipped (No changes)
+[2026-01-19 18:39:03] INFO: 🔔 Checking for notifications...
+[2026-01-19 18:39:03] INFO: 📧 Starting Notification Cycle...
+[2026-01-19 18:39:03] INFO: 📭 No new tenders to notify about.
+[2026-01-19 18:39:03] INFO: 🏁 Cycle Complete. Duration: 3.20s
+[2026-01-19 18:41:16] INFO: Connected to MongoDB
+[2026-01-19 18:41:17] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 18:41:17] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: */21 * * * *
+[2026-01-19 18:41:17] INFO: Scheduler started
+[2026-01-19 18:41:17] INFO: ✅ Server running on port 3000
+[2026-01-19 18:43:31] INFO: Connected to MongoDB
+[2026-01-19 18:43:31] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 18:43:31] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: 0 */4 * * *
+[2026-01-19 18:43:31] INFO: Scheduler started
+[2026-01-19 18:43:31] INFO: ✅ Server running on port 3000
+[2026-01-19 18:43:55] INFO: 👆 Manual scrape triggered via API!
+[2026-01-19 18:43:55] INFO: 🚀 Starting Scraping Cycle
+[2026-01-19 18:43:55] INFO: 📋 Loaded 1 sites from database.
+[2026-01-19 18:43:55] INFO: -----------------------------------------------------------
+[2026-01-19 18:43:55] INFO: 🔎 [Site 0] Processing: https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com
+[2026-01-19 18:44:02] INFO:    👀 Monitor: 🟢 CHANGE DETECTED (Hash: da4f7d519b)
+[2026-01-19 18:44:02] INFO:    📝 Queued new hash for DB update.
+[2026-01-19 18:44:02] INFO: 
+--- 🔍 Discovery: Scanning list at https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com ---
+[2026-01-19 18:45:28] INFO:    ⏱️ [List View] AI Request finished in 86.12s
+[2026-01-19 18:45:29] INFO:    ⚡ Found 5 NEW unique items on Site 0
+[2026-01-19 18:45:29] INFO:    📦 Batch 1: Processing 5 items...
+[2026-01-19 18:45:29] INFO: 
+--- 📦 Batch Reading 5 items ---
+[2026-01-19 18:49:55] INFO:    ⏱️ [Batch Group] AI Request finished in 266.44s
+[2026-01-19 18:49:56] INFO:       ✨ Saved: INE-AD-OP/04/2025
+[2026-01-19 18:49:56] INFO:       ✨ Saved: INE-AD-OP/01/2025
+[2026-01-19 18:49:56] INFO:       ✨ Saved: INE-IA3-SROP/003/2025
+[2026-01-19 18:49:56] INFO:       ✨ Saved: INE-IA3-SROP/002/2025
+[2026-01-19 18:49:56] INFO:       ✨ Saved: INE-LPN-SROP/002/2025
+[2026-01-19 18:49:56] INFO:       🧠 Scoring buffer of 5 items...
+[2026-01-19 18:49:56] INFO: 
+--- 🧠 Scoring Batch of 5 Tenders ---
+[2026-01-19 18:50:24] INFO:    ⏱️ [Scoring] AI Analysis finished in 27.34s
+[2026-01-19 18:50:24] INFO: ✅ Scored 5 tenders successfully.
+[2026-01-19 18:50:24] INFO:    ⏱️ [Site 0] Completed in 388.49s
+[2026-01-19 18:50:24] INFO: ✅ Database updated successfully.
+[2026-01-19 18:50:24] INFO: 🔔 Checking for notifications...
+[2026-01-19 18:50:24] INFO: 📧 Starting Notification Cycle...
+[2026-01-19 18:50:24] INFO:    Found 5 tenders and 1 active users.
+[2026-01-19 18:50:24] INFO: ✅ Notification cycle done. Marked 5 tenders as sent.
+[2026-01-19 18:50:24] INFO: 🏁 Cycle Complete. Duration: 388.81s
+[2026-01-19 18:54:08] INFO: Connected to MongoDB
+[2026-01-19 18:54:08] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 18:54:08] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: 0 */4 * * *
+[2026-01-19 18:54:08] INFO: Scheduler started
+[2026-01-19 18:54:08] INFO: ✅ Server running on port 3000
+[2026-01-19 18:54:14] INFO: 👆 Manual scrape triggered via API!
+[2026-01-19 18:54:14] INFO: 🚀 Starting Scraping Cycle
+[2026-01-19 18:54:14] INFO: 📋 Loaded 1 sites from database.
+[2026-01-19 18:54:14] INFO: -----------------------------------------------------------
+[2026-01-19 18:54:14] INFO: 🔎 [Site 0] Processing: https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com
+[2026-01-19 18:54:17] INFO:    👀 Monitor: 🟢 CHANGE DETECTED (Hash: da4f7d519b)
+[2026-01-19 18:54:17] INFO:    📝 Queued new hash for DB update.
+[2026-01-19 18:54:17] INFO: --- 🔍 Discovery: Scanning list at https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com ---
+[2026-01-19 18:56:28] INFO:    ⏱️ [List View] AI Request finished in 131.54s
+[2026-01-19 18:56:29] INFO:    ⚡ Found 5 NEW unique items on Site 0
+[2026-01-19 18:56:29] INFO:    📦 Batch 1: Processing 5 items...
+[2026-01-19 18:56:29] INFO: --- 📦 Batch Reading 5 items ---
+[2026-01-19 19:00:49] INFO:    ⏱️ [Batch Group] AI Request finished in 260.89s
+[2026-01-19 19:00:50] INFO:       ✨ Saved: INE-AD-OP/04/2025
+[2026-01-19 19:00:50] INFO:       ✨ Saved: INE-AD-OP/01/2025
+[2026-01-19 19:00:50] INFO:       ✨ Saved: INE-AD-SROP/03/2025
+[2026-01-19 19:00:50] INFO:       ✨ Saved: INE-IA3-SROP/003/2025
+[2026-01-19 19:00:50] INFO:       ✨ Saved: INE-LPN-OP/003/2025
+[2026-01-19 19:00:50] INFO:       🧠 Scoring buffer of 5 items...
+[2026-01-19 19:00:50] INFO: --- 🧠 Scoring Batch of 5 Tenders ---
+[2026-01-19 19:01:21] INFO:    ⏱️ [Scoring] AI Analysis finished in 30.70s
+[2026-01-19 19:01:21] INFO: ✅ Scored 5 tenders successfully.
+[2026-01-19 19:01:21] INFO:    ⏱️ [Site 0] Completed in 426.53s
+[2026-01-19 19:01:21] INFO: ✅ Database updated successfully.
+[2026-01-19 19:01:21] INFO: 🔔 Checking for notifications...
+[2026-01-19 19:01:21] INFO: 📧 Starting Notification Cycle...
+[2026-01-19 19:01:21] INFO:    Found 5 tenders and 1 active users.
+[2026-01-19 19:01:21] INFO: ✅ Notification cycle done. Marked 5 tenders as sent.
+[2026-01-19 19:01:21] INFO: 🏁 Cycle Complete. Duration: 426.89s
+[2026-01-19 20:00:00] INFO: ⏰ Cron Triggered: Starting Pipeline...
+[2026-01-19 20:00:00] INFO: 🚀 Starting Scraping Cycle
+[2026-01-19 20:00:00] INFO: 📋 Loaded 1 sites from database.
+[2026-01-19 20:00:00] INFO: -----------------------------------------------------------
+[2026-01-19 20:00:00] INFO: 🔎 [Site 0] Processing: https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com
+[2026-01-19 20:00:02] INFO:    👀 Monitor: 🔴 NO CHANGE (Hash: da4f7d519b)
+[2026-01-19 20:00:02] INFO:    ⏱️ [Site 0] Skipped (No changes)
+[2026-01-19 20:00:02] INFO: 🔔 Checking for notifications...
+[2026-01-19 20:00:02] INFO: 📧 Starting Notification Cycle...
+[2026-01-19 20:00:02] INFO: 📭 No new tenders to notify about.
+[2026-01-19 20:00:02] INFO: 🏁 Cycle Complete. Duration: 2.58s
+[2026-01-19 20:40:12] INFO: Connected to MongoDB
+[2026-01-19 20:40:12] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 20:40:12] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: 0 */4 * * *
+[2026-01-19 20:40:12] INFO: Scheduler started
+[2026-01-19 20:40:12] INFO: ✅ Server running on port 3000
+[2026-01-19 20:40:12] INFO: 👆 Manual scrape triggered via API!
+[2026-01-19 20:40:12] INFO: 🚀 Starting Scraping Cycle
+[2026-01-19 20:40:12] INFO: 📋 Loaded 1 sites from database.
+[2026-01-19 20:40:12] INFO: -----------------------------------------------------------
+[2026-01-19 20:40:12] INFO: 🔎 [Site 0] Processing: https://portal.ine.mx/licitaciones-contrataciones-presenciales/?referrer=grok.com
+[2026-01-19 20:40:15] INFO:    👀 Monitor: 🔴 NO CHANGE (Hash: da4f7d519b...)
+[2026-01-19 20:40:15] INFO:    ⏱️ [Site 0] Skipped (No changes)
+[2026-01-19 20:40:15] INFO: 🔔 Checking for notifications...
+[2026-01-19 20:40:15] INFO: 📧 Starting Notification Cycle...
+[2026-01-19 20:40:15] INFO: 📭 No new tenders to notify about.
+[2026-01-19 20:40:15] INFO: 🏁 Cycle Complete. Duration: 2.40s
+[2026-01-19 21:08:41] INFO: Connected to MongoDB
+[2026-01-19 21:08:42] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 21:08:42] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: 0 */4 * * *
+[2026-01-19 21:08:42] INFO: Scheduler started
+[2026-01-19 21:08:42] INFO: ✅ Server running on port 3000
+[2026-01-19 21:09:14] WARN: ⛔ [Auth] Failed login attempt for: undefined
+[2026-01-19 21:10:15] INFO: 🔓 [Auth] Login successful: etgar.avshalomov@gmail.com
+[2026-01-19 21:10:22] INFO: 🔓 [Auth] Login successful: etgar.avshalomov@gmail.com
+[2026-01-19 21:10:26] WARN: ⛔ [Auth] Failed login attempt for: undefined
+[2026-01-19 21:13:46] WARN: ⛔ [Auth] Failed login attempt for: undefined
+[2026-01-19 21:17:32] WARN: ⛔ [Auth] Failed login attempt for: undefined
+[2026-01-19 22:00:58] INFO: Connected to MongoDB
+[2026-01-19 22:00:58] INFO: 🔧 Logging level set to: INFO
+[2026-01-19 22:00:58] INFO: ⚙️  System Settings Loaded. Logging Level: info Schedule: 0 */4 * * *
+[2026-01-19 22:00:58] INFO: Scheduler started
+[2026-01-19 22:00:58] INFO: ✅ Server running on port 3000
+[2026-01-19 22:01:07] WARN: ⛔ [Auth] Failed login attempt for: undefined
+[2026-01-19 22:02:42] INFO: ✏️ [Tenders] Updating tender: INE-LPN-OP/003/2025
+[2026-01-19 22:02:50] WARN: ⛔ [Auth] Failed login attempt for: undefined
+[2026-01-19 22:02:59] INFO: ✏️ [Tenders] Updating tender: INE-LPN-OP/003/2025
